@@ -13,5 +13,3 @@ if __name__ == "__main__":
     print(informacoes_palavra(palavra_gerada)) # INFORMAÇÕES RELEVANTES A PALAVRA
     forca(palavra_gerada, lista_tracos)
 
-
-
